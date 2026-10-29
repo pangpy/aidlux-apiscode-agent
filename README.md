@@ -7,6 +7,7 @@ pip -r re.txt
 
 export TERMUX_MCP_HOST="0.0.0.0"
 export TERMUX_MCP_PORT="8091"
+
 export TERMUX_MCP_AUTH_TOKEN="a7f3c9e2b5d84610f2e7a9c3b6d14e58"
 
 export OKX_API_KEY="b778e920-94e5-4424-89cc-494ec7b5c98e"
@@ -22,6 +23,7 @@ export APISCODE_ACCESS_TOKEN="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.dfdfdOjE4MTQz
 export APISCODE_ACCOUNT="google_success_vggg3555@gmail.com"
 export APISCODE_TOTP_SECRET="IHY23SUX433OYJ5TN537KI35JA7JOL3I"
 export APISCODE_API_BASE="https://api.apiscode.org"
+
 export DSH_API_KEY="sk_e8882375ecd9d4a8ff8fba715liop0f39bc9"
 export DSH_MODEL="deepseek-chat"
 export DSH_TOOL_MODE="ds_selector"
