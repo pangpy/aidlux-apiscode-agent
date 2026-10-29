@@ -5,11 +5,11 @@
 source .venv/bin/activate
 pip -r re.txt
 
-python3 run.py run1
+python3 run.py run1 运行cli终端agent
 
-python3 run.py run
+python3 run.py run 运行网页端agent
 
-python3 run.py run1
+python3 run.py run_web 小说工具agent
 
 export TERMUX_MCP_HOST="0.0.0.0"
 
