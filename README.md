@@ -1,8 +1,10 @@
 # aidlux-apiscode-agent
 这是一个apiscode平台下的agent，aidlux系统下的python agent运行包。
 启动
+##
 source .venv/bin/activate
 pip -r re.txt
+
 export TERMUX_MCP_HOST="0.0.0.0"
 export TERMUX_MCP_PORT="8091"
 export TERMUX_MCP_AUTH_TOKEN="a7f3c9e2b5d84610f2e7a9c3b6d14e58"
