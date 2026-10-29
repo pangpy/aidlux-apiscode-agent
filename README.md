@@ -26,6 +26,7 @@ export OKX_API_PASSPHRASE="Check959693."
 export OKX_SIMULATED="1"   # 1=模拟盘，0=实盘；先 1
 
 export HTTPS_PROXY="http://10.93.232.101:20171
+###
 export MAX_ITERATIONS=100
 ###
 export CONTEXT_WINDOW=100000
