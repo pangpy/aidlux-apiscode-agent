@@ -1,0 +1,19 @@
+{
+  "env": {
+    "DSH_API_KEY": "sk_e8882378787fba7150f39bc9",
+    "DSH_MODEL": "deepseek-chat",
+    "DSH_API_BASE": "https://api.apiscode.org/api/v1",
+    "DSH_MCP_SERVERS": "blender",
+    "DSH_CHECKPOINTER": "sqlite",
+    "DSH_HOME": "/Users/mac/.dsh",
+    "DSH_VENV_BIN": "/Users/mac/aidlux-py/.venv/bin",
+    "DSH_PYTHON": "/Users/mac/aidlux-py/.venv/bin/python",
+    "DSH_OBS_CMD": "/Users/mac/aidlux-py/.venv/bin/obs-controller",
+    "DSH_BROWSER_MCP": "/Users/mac/aidlux-py/browser_mcp.py",
+    "DSH_CODEMAP_CMD": "/Users/mac/aidlux-py/.venv/bin/codemap-mcp",
+    "DSH_CODEMAP_ROOT": "/Users/mac/aidlux-py",
+    "DSH_BLENDER_MCP": "/Users/mac/.local/bin/mcp-for-blender",
+    "DSH_BLENDER_HOST": "127.0.0.1",
+    "DSH_BLENDER_PORT": "9876"
+  }
+}
